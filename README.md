@@ -12,7 +12,7 @@ Both the clients are similar to the the original CrazyFlie client.
 
 The Android Client creates a NanoHttpd server to stream json data, which PC client reads and transmits it to CrazyFlie.  
 
-Installation Instructions - 
+Installation Instruction - 
 
 1. Install Android Client 
 2. Connect you PC to your Android device using a local WIFI hotspot (create on your Android device)
