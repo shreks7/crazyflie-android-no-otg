@@ -1,4 +1,4 @@
-crazyflie-android-client-no-otg
+crazyflie-android-no-otg
 ===============================
 
 Fly Crazyflie with an Android device, even if you dont have a PS3/XBOX controller or an OTG cable.
