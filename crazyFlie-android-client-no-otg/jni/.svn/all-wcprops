@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/65/trunk/droidipcam/jni
+END
+mediacapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/53/trunk/droidipcam/jni/mediacapture.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/droidipcam/jni/Android.mk
+END
+how-to-build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/droidipcam/jni/how-to-build.txt
+END
+mediabuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/droidipcam/jni/mediabuffer.cpp
+END
+lib_build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/droidipcam/jni/lib_build.mk
+END
+mediapak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/droidipcam/jni/mediapak.cpp
+END
+mediacheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/47/trunk/droidipcam/jni/mediacheck.cpp
+END
+mediabuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/61/trunk/droidipcam/jni/mediabuffer.h
+END
+mediapak.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/droidipcam/jni/mediapak.h
+END
+ipcamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/trunk/droidipcam/jni/ipcamera.cpp
+END
+mediastreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/52/trunk/droidipcam/jni/mediastreamer.cpp
+END
+build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/42/trunk/droidipcam/jni/build.mk
+END
+ipcamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/droidipcam/jni/ipcamera.h
+END
+mediastreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/trunk/droidipcam/jni/mediastreamer.h
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/65/trunk/droidipcam/jni/Application.mk
+END
+mediastreaming.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/droidipcam/jni/mediastreaming.cpp
+END

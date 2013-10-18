@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:id="@+id/leftY"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="LeftY"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/leftX"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:text="LeftX"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+         android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/rightX"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:text="RightX"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+         android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/rightY"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:text="RightY:"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+         android:textColor="#000000" />
+     
+
+</merge>
