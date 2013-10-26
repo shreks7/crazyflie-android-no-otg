@@ -269,8 +269,6 @@ class App(QtGui.QMainWindow):
     def readInput(self,value):
                 global values,MAX_THRUST,MIN_THRUST,_signalThread
                 roll,pitch,thrust,yaw = value
-                
-                
                      
                 if (self.slewEnableLimitV > thrust):
                     if self.oldThrust > self.slewEnableLimitV:
@@ -282,38 +280,12 @@ class App(QtGui.QMainWindow):
                         
                 self.oldThrust = thrust
                 
-                if(thrust>40):
-                    thrust  = thrust * MAX_THRUST/100
-                else:
-                    thrust = MIN_THRUST
-                
-                
-                
-                 
-               
                 pitch = -pitch
                
                 values = roll,pitch,yaw,thrust
                
                
-                #print str(values)
-               
-                """
-                if(self.uiState!=UIState.CONNECTED):
-                    return    
-               
-               if yaw < -0.2 or yaw > 0.2:
-                        if yaw < 0:
-                            yaw = (yaw + 0.2) * self.maxYawRateV * 1.25
-                        else:
-                            yaw = (yaw - 0.2) * self.maxYawRateV * 1.25
-                else:
-                    self.yaw = 0
-                
-               
-            
-                values = roll,pitch,thrust,yaw 
-                """
+              
     
     def pulse_command(self): 
         global values
