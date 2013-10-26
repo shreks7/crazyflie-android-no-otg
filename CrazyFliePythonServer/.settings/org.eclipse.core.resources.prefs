@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//crazyflie/connectiondialogue.py=utf-8
+encoding//lib/cflib/crazyflie/__init__.py=utf-8
+encoding//lib/cflib/crazyflie/commander.py=utf-8
+encoding//lib/cflib/crazyflie/log.py=utf-8
+encoding//lib/cflib/utils/callbacks.py=utf-8
